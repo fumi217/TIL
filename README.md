@@ -9,7 +9,7 @@
 - [05/14 - JS初日（console.logと出力の仕組み）](JavaScript/2026-05-14.md)
 
 ## 📁 Archives（技術別の記録）
-### JavaScript
+### [JavaScript](JavaScript)
 - [05/14 - console.logと出力の仕組み](JavaScript/2026-05-14.md)
 - [05/15 - データ型・演算子・変数の基礎](JavaScript/2026-05-15.md)
 - [05/16 - 関数の基礎](JavaScript/2026-05-16.md)
