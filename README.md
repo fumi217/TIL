@@ -3,11 +3,11 @@
 私（ふみ）の学習記録です。
 
 ## ✏️ Recent Activity（直近5日間の学習タイムライン）
+- [05/27 - オブジェクトの基礎・プロパティ操作](JavaScript/2026-05-27.md)
 - [05/26 - 配列メソッドの実践](JavaScript/2026-05-26.md)
 - [05/25 - 配列（Array）の基礎とメソッド](JavaScript/2026-05-25.md)
 - [05/24 - switch文・while文・for文・クロージャ実践](JavaScript/2026-05-24.md)
 - [05/23 - スコープの概念](JavaScript/2026-05-23.md)
-- [05/22 - 文字列メソッド・条件分岐の設計](JavaScript/2026-05-22.md)
 
 ## 📁 Archives（技術別の記録）
 
@@ -27,5 +27,6 @@
 - [05/24 - switch文・while文・for文・クロージャ実践](JavaScript/2026-05-24.md)
 - [05/25 - 配列（Array）の基礎とメソッド](JavaScript/2026-05-25.md)
 - [05/26 - 配列メソッドの実践](JavaScript/2026-05-26.md)
+- [05/27 - オブジェクトの基礎・プロパティ操作](JavaScript/2026-05-27.md)
 
 </details>
