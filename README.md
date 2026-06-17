@@ -5,11 +5,28 @@
 ## ✏️ Recent Activity（直近5日間の学習タイムライン）
 6月~~1週目~~は、基本情報技術者の勉強を進める予定です。  
 ⇒ 6月中は基本情報技術者の勉強を軸に、スクールの課題であるサイト制作も並行して進める予定です。  
-サイト制作はHTML / CSS / javascriptを使用予定。日報形式ではなく、実装内容をまとめる形で記録していきます。
+サイト制作では[html](html) / css / [javascript](javascript)を使用。実装した内容を学習の合間にまとめていきます。
 
-- [06/11～15 - 基本情報技術者の勉強](fe-study-log.md)
+- [06/17 - コマンドラインの基礎](git/basic-commands.md)
+- [06/16 - サイト制作で使用したタグ(head部分)を更新](html/basic-and-semantic-tags.md)
+- [06/13～17 - 基本情報技術者の勉強](fe-study-log.md)
 
 ## 📁 Archives（技術別の記録）
+
+<details>
+  <summary><a href="git">git</a></summary>
+
+- [基本的なコマンド](git/basic-commands.md)
+
+</details>
+
+<details>
+  <summary><a href="html">html</a></summary>
+
+- [サイト制作において使用したタグ](html/basic-and-semantic-tags.md)
+
+</details>
+
 
 <details>
   <summary><a href="javascript">javascript</a></summary>
@@ -19,7 +36,7 @@
 - [05/16 - JS関数の基礎](javascript/2026-05-16.md)
 - [05/17 - 関数の演習・テンプレートリテラル・クロージャ](javascript/2026-05-17.md)
 - [05/18 - 命名規則・可読性、動的な西暦取得](javascript/2026-05-18.md)
-- [05/19 -比較演算子・演算子の省略記法](javascript/2026-05-19.md)
+- [05/19 - 比較演算子・演算子の省略記法](javascript/2026-05-19.md)
 - [05/20 - 条件分岐・文字列メソッドの基礎](javascript/2026-05-20.md)
 - [05/21 - 論理演算子・ネスト](javascript/2026-05-21.md)
 - [05/22 - 文字列メソッド・条件分岐の設計](javascript/2026-05-22.md)
