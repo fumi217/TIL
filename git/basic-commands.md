@@ -24,3 +24,33 @@
 	- `-r` ディレクトリを削除する（`rm -r 削除するディレクトリ名）
 
 >関連：[MDN](https://developer.mozilla.org/ja/docs/Learn_web_development/Getting_started/Environment_setup/Command_line)
+
+# gitコマンド
+## 初回セットアップ
+- `git init`：カレントディレクトリをGit管理の対象（リポジトリ）にする。
+	- 何をしているか？  
+	  カレントディレクトリに隠しフォルダ`.git`が作成され、Gitが「このディレクトリをGitリポジトリとして扱う」と認識する。（補足：`ls -a`で隠しフォルダを含めた中身を確認できる）
+	- ローカルからGitHub等に上げる際に必要なコマンド。
+    - GitHubから`pull`, `clone`してきたものには`.git`が含まれているため、`init`は不要。
+- `git remote add origin URL`：GitHub等との接続先を登録する（どのリモートリポジトリと連携するか登録する）。
+	- `.git`が存在することが前提。
+- `git clone`：リモートリポジトリを丸ごとローカルにコピーし、ローカルリポジトリを作成する。
+	- リモートリポジトリを初めてローカルに持ってくる際に行う（`.git`ごとコピーする）。
+	- `init`, `remote add origin URL`など、複数の処理をまとめてやってくれている状態。
+
+## 日常作業
+- `git add`：`commit`の下準備。次のコミットに含める変更内容を宣言する。指定したファイルやディレクトリの変更内容を、インデックス（ステージングエリア）に登録する。
+	- 記載例：
+		- `git add index.html`：1つのファイル
+		- `git add index.html about.html`：複数ファイル
+		- `git add *.html` / `git add home-*`：ワイルドカード
+		- `git add home/`：指定したディレクトリ配下
+		- `git add .`：カレントディレクトリ配下
+	- 参考：[addコマンドのオプション](https://26gram.com/git-add)
+- `git commit`：`add`で登録した変更内容を、メッセージ付きでローカルリポジトリに履歴として保存する。
+	- 記載例：`git commit -m "コミットメッセージ"`
+	- イメージ：ゲームでの**手動**セーブに近い。「ここはしっかり履歴として残しておきたい」という状態を記録する。
+	- 参考：[コミットメッセージのプレフィックス例](https://qiita.com/muranakar/items/20a7927ffa63a5ca226a)
+- `git push`：ローカルリポジトリのコミット履歴を、連携しているリモートリポジトリに送信する。
+- `git pull`： リモートリポジトリの最新状態を、ローカルリポジトリに取り込む。
+- `git status`：ワークツリー、インデックス、ブランチの状態を確認できる。
