@@ -7,9 +7,10 @@
 ⇒ 6月中は基本情報技術者の勉強を軸に、スクールの課題であるサイト制作も並行して進める予定です。  
 サイト制作では[html](html) / css / [javascript](javascript)を使用。実装した内容を学習の合間にまとめていきます。
 
+- [06/19 - gitの基本コマンド](git/basic-commands.md)
 - [06/17 - コマンドラインの基礎](git/basic-commands.md)
 - [06/16 - サイト制作で使用したタグ(head部分)を更新](html/basic-and-semantic-tags.md)
-- [06/13～17 - 基本情報技術者の勉強](fe-study-log.md)
+- [06/15～19 - 基本情報技術者の勉強](fe-study-log.md)
 
 ## 📁 Archives（技術別の記録）
 
