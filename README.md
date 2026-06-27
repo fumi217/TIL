@@ -7,8 +7,8 @@
 ⇒ 6月中は基本情報技術者の勉強を軸に、スクールの課題であるサイト制作も並行して進めました。  
 サイト制作では[html](html) / css / [javascript](javascript)を使用。実装した内容を学習の合間にまとめていきます。
 
-- [06/22～26 - 基本情報技術者の勉強](fe-study-log.md)
-- [06/22 - クラスの継承(JS)](javascript/2026-06-22.md)
+- [06/23～27 - 基本情報技術者の勉強](fe-study-log.md)
+- [06/26 - TypeScriptのインストール](typescript/2026-06-26.md)
 
 ## 📁 Archives（技術別の記録）
 
@@ -50,6 +50,13 @@
 - [05/31 - for文を使った配列・オブジェクト操作](javascript/2026-05-31.md)
 - [06/21 - クラス・オブジェクトの基礎](javascript/2026-06-21.md)
 - [06/22 - クラスの継承](javascript/2026-06-22.md)
+
+</details>
+
+<details>
+  <summary><a href="typescript">typescript</a></summary>
+
+- [06/26 - TypeScriptのインストールと関連コマンド](typescript/2026-06-26.md)
 
 </details>
 
