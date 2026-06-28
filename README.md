@@ -3,11 +3,12 @@
 私（ふみ）の学習記録です。
 
 ## ✏️ Recent Activity（直近5日間の学習タイムライン）
+
 6月~~1週目~~は、基本情報技術者の勉強を進める予定です。  
 ⇒ 6月中は基本情報技術者の勉強を軸に、スクールの課題であるサイト制作も並行して進めました。  
 サイト制作では[html](html) / css / [javascript](javascript)を使用。実装した内容を学習の合間にまとめていきます。
 
-- [06/23～27 - 基本情報技術者の勉強](fe-study-log.md)
+- [06/24～28 - 基本情報技術者の勉強](fe-study-log.md)
 - [06/26 - TypeScriptのインストール](typescript/2026-06-26.md)
 
 ## 📁 Archives（技術別の記録）
@@ -25,7 +26,6 @@
 - [サイト制作において使用したタグ](html/basic-and-semantic-tags.md)
 
 </details>
-
 
 <details>
   <summary><a href="javascript">javascript</a></summary>
@@ -61,4 +61,5 @@
 </details>
 
 ## 📝 資格勉強の記録
+
 - [05/28 ～ - 基本情報技術者](fe-study-log.md)
