@@ -4,11 +4,8 @@
 
 ## ✏️ Recent Activity（直近5日間の学習タイムライン）
 
-7月15日に基本情報技術者試験を受験。評価点だけ見ると、合格見込み🎉
-
-- [07/17 - import宣言の書き方](typescript/2026-07-17.md)
-- [07/16 - .tsxファイルが表示されなかった原因と解決までの流れ](typescript/2026-07-16.md)
-- [07/11～07/15 - 基本情報技術者の勉強](fe-study-log.md)
+- [07/21 - MySQLのインストール](mysql/wsl-install.md)
+- [07/17 - import宣言の書き方（TS）](typescript/2026-07-17.md)
 
 ## 📁 Archives（技術別の記録）
 
@@ -51,6 +48,13 @@
 - [06/22 - クラスの継承](javascript/2026-06-22.md)
 - [06/30 - 二分探索アルゴリズムの実践](javascript/2026-06-30.md)
 - [07/10 - アロー関数・三項演算子・mapメソッド](javascript/2026-07-10.md)
+
+</details>
+
+<details>
+  <summary><a href="mysql">mysql</a></summary>
+
+- [07/21 - MySQLのインストール](mysql/wsl-install.md)
 
 </details>
 
