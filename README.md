@@ -2,8 +2,10 @@
 
 私（ふみ）の学習記録です。
 
-## ✏️ Recent Activity（直近5日間の学習タイムライン）
+## ✏️ Recent Activity（直近の学習タイムライン）
 
+- [07/27 - Array.fill、変数命名の考え方](javascript/2026-07-27.md)
+- [07/26 - padStart（出力字数と埋める文字を指定）](javascript/2026-07-26.md)
 - [07/21 - MySQLのインストール](mysql/wsl-install.md)
 - [07/17 - import宣言の書き方（TS）](typescript/2026-07-17.md)
 
@@ -48,6 +50,8 @@
 - [06/22 - クラスの継承](javascript/2026-06-22.md)
 - [06/30 - 二分探索アルゴリズムの実践](javascript/2026-06-30.md)
 - [07/10 - アロー関数・三項演算子・mapメソッド](javascript/2026-07-10.md)
+- [07/26 - padStart（出力字数と埋める文字を指定）](javascript/2026-07-26.md)
+- [07/27 - Array.fill、変数命名の考え方](javascript/2026-07-27.md)
 
 </details>
 
